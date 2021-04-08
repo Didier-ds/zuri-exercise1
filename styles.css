@@ -351,6 +351,9 @@ div.footer h6 {
 div.hero-section {
   padding: 2rem;
 }
+ul.nav-links {
+  padding: 1em 0;
+}
 div.nav-bar {
   padding: 2rem 1rem;
   justify-content: center;
